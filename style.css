@@ -501,8 +501,9 @@ button:hover {
     align-items: center;
   }
 	.contact-left, .contact-right {
-    margin-top: 20px;
+    margin: 0 auto;
     text-align: center;
+
   }
  
 	/* コンタクトレスポンシブ終わり */
@@ -572,7 +573,7 @@ button:hover {
 
 	.navbar-nav {
 		flex-direction: column; /* スマホの小さい画面で縦並びに戻す */
-		/* text-align: center; */
+		
 
 	}
 
